@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Romanik Musik</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Almendra:wght@400;700&family=EB+Garamond:ital,wght@0,400;0,700;1,400&family=Germania+One&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <a href="index.html" class="back-button">← Zurück zur Übersicht</a>
+
+    <div class="page-container">
+        <h1>Romanik Musikkunststil</h1>
+        
+        <div class="content-text">
+            <p>
+                Die Romanik ist ein europäischer Kunststil, der von ca. 900 bis 1240 entstand. Die Musik der Romanik ist geprägt von
+                <a href="gregorianischerGesang.html" class="inline-link">gregorianischem Gesang</a>.
+            </p>
+            <p>
+                In der Frühromanik wurde vorwiegend in Kirchen gesungen, meist von Geistlichen. Nur wenige Gesangseinlagen wurden durch ein
+                Instrument begleitet. Im frühen Mittelalter finden sich erste Überlieferungen des gregorianischen 
+                Gesangs. 
+            </p>
+            <p>
+                Es gibt mehrere Theorien zur Entstehung der romanischen Melodien.
+                Eine Theorie besagt, dass der gregorianische Gesang in Rom unter Papst Vitalian entstand. Eine andere Fassung
+                spricht dem Bischofschorgesang in Metz, nördlich der Alpen, die zentrale Rolle
+                der Melodienentwicklung zu. 
+            </p>
+            <p>
+                In einer weiteren Theorie lässt sich ein Kompromiss finden. Sie besagt, dass das
+                grundsätzliche Melodie-Repertoire in Rom entstand und nördlich der Alpen
+                erweitert wurde. Eine der vielen weiteren Theorien besagt, dass der Ursprung auch in Rom stattfand und die Musik später
+                in Frankreich übernommen wurde.
+            </p>
+        </div>
+
+        <div class="QuellenFooter">
+            Quellen:<br>
+            <a href="https://www.contiweg.at/wp-content/uploads/s" target="_blank">https://www.contiweg.at/wp-content/uploads/s</a><br>
+            <a href="https://de.galerie-gerdes.com/2024/05/13/dieevolution-der-musik-in-der-gotik/" target="_blank">https://de.galerie-gerdes.com/2024/05/13/dieevolution-der-musik-in-der-gotik/</a><br>
+            <a href="https://dioezesanmuseum-paderborn.de/der-klang-der-gotik/" target="_blank">https://dioezesanmuseum-paderborn.de/der-klang-der-gotik/</a>
+        </div>
+    </div>
+
+</body>
+</html>
