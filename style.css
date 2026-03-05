@@ -4,3 +4,8 @@
     align-items: center; 
     background-color: grey;  
 }
+.box {
+    display: flex;
+    align-itmes:  flex-center;
+    justify-content: space-evenly; 
+}
