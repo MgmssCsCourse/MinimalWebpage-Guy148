@@ -55,3 +55,13 @@ title {
     color: var(--bg-dark);
     transform: translateY(-10px) scale(1.05);
     box-shadow: 0 0 25px rgba(212, 175, 55, 0.4);
+}
+.page-container {
+    max-width: 800px;
+    margin: 20px auto 60px auto;
+    padding: 40px;
+    background-color: var(--card-dark);
+    border: 1px solid #333;
+    border-top: 4px solid var(--gold);
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.9);
+}
