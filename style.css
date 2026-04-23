@@ -109,3 +109,7 @@ body {
 li , ul {
     font-size: 1.7vh;
 }
+ul {
+font-family: Arial; 
+font-size: 1.25rem;
+}
