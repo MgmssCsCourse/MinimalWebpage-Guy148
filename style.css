@@ -1,0 +1,37 @@
+.bg-darkblue {
+    background-color: #0a2342;
+}
+
+.content {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.content-text {
+    font-size: 1.125rem;
+    font-family: arial;
+}
+
+.basic_image {
+    float: right;
+    border: 1px dotted black;
+    margin: 0px 0px 15px 20px;
+    border-radius: 10px;
+}
+
+li {
+    font-family: arial;
+    font-size: 1.125rem; 
+}
+
+.image_carts {
+    border-radius: 15px;
+}
+
+.important-text {
+    font-family: arial;
+    font-style: italic;
+    font-weight: bold;
+}
